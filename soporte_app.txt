@@ -1,0 +1,2 @@
+Levantar servidor:
+nf serve -o
